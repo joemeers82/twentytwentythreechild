@@ -1,0 +1,16 @@
+{
+  "name": "acf/tech-list",
+  "title": "Tech Icon List",
+  "description": "A custom block listing icons for technologies.",
+  "style": [""],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["tech-list"],
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "tech-list.php"
+  },
+  "supports": {
+    "anchor": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "acf/project-hero",
+  "title": "Project Details Hero",
+  "description": "A custom block for Project Details Hero.",
+  "style": [""],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["project-hero", "quote"],
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "project-hero.php"
+  },
+  "supports": {
+    "anchor": true
+  }
+}

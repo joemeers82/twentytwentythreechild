@@ -1,0 +1,16 @@
+{
+  "name": "acf/project-archive",
+  "title": "Project Archive",
+  "description": "A custom block listing projects.",
+  "style": [""],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["project-archive"],
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "project-archive.php"
+  },
+  "supports": {
+    "anchor": true
+  }
+}
